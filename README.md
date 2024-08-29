@@ -55,4 +55,4 @@ The project is expected to be completed within two weeks.
 Clone the repository:
 
 ```bash
-(https://github.com/RajishaS/McDonald-s-Menu-Nutritional-Analysis---Project)
+(https://github.com/RajishaS/McDonalds-Project)
